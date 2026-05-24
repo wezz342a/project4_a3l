@@ -1,1 +1,0 @@
-python finpulse.py
